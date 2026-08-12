@@ -17,4 +17,6 @@ I'm a computer engineering student focused on building scalable backend architec
 📄 **[View My Resume / CV](./Hidircan_Aslan_CV.pdf)**
 
 #### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidircan0&show_icons=true&theme=radium&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidircan0&layout=compact&theme=radium&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hidircan0&theme=radium&hide_border=true)
