@@ -21,4 +21,6 @@ I'm a computer engineering student focused on building scalable backend architec
 
 
 📄 **[View My Resume / CV](./Hidircan_Aslan_CV.pdf)**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C4%B1d%C4%B1rcan-aslan-b8770b295/)
